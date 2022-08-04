@@ -3,7 +3,7 @@ Küçük, hatasız, okunması ve değiştirilmesi kolay bir database modülüdü
 
 ## Yükelemek İçin
 ```npm
-npm install Satoshi.db
+npm install satoshi.db
 ```
 
 ## Dikkat
