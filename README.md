@@ -55,5 +55,5 @@ db.deleteAll()
 ```
 
 ## İletişim
-`Yoshito#1878`
-`Satoshi#1878`
+`Yoshito#1878`(`752378880769261700`)
+`Satoshi#1878`(`749411644358131792`)
